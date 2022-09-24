@@ -3,7 +3,7 @@ class Latihan1 extends CI_Controller
 {
     public function index()
     {
-    echo "Selamat Datang Kurniawan, Selamat belajar Web Programming";
+    echo "Selamat Datang rina oktavia, Selamat belajar Web Programming";
     }
     public function penjumlahan($n1, $n2)
     {
